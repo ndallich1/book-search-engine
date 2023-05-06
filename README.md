@@ -23,6 +23,8 @@ a GraphQL API built with an Apollo Server
 
 By navigating to the [deployed app](https://limitless-reaches-77811.herokuapp.com/), you can type in any book you would like to search for and click "submit search". All search results related to the user's input will appear!
 
+![book search example](./client/src/images/book-search.jpg)
+
 ## Credits
 
 Assists from the developers below:
